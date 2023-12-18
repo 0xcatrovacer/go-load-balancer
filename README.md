@@ -1,1 +1,1 @@
-A simple Task Scheduler and Load Balancer using Goroutines and channels
+A simple Task Scheduler and Load Balancer simulator using Goroutines and channels
